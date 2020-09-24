@@ -1,1 +1,1 @@
-# travel.github.io/index.html
+# travel.github.io
